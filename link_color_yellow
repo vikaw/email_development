@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+<meta name="viewport" content="width=device-width"> 
+<title>Title</title>
+<style type="text/css">
+@-ms-viewport {
+a.yellow_link:link {color:#fbf6a5;}
+a.yellow_link:active {color:#fbf6a5;}
+a.yellow_link:visited {color:#fbf6a5;}
+}
+</style>
+</head>
+
+<body bgcolor="#fafafc" style="width: 100% !important; min-width: 100%; height: 100%;background-color:#fafafc; margin: 0px; padding:0px; -webkit-text-size-adjust:none; -ms-text-size-adjust: none;" yahoo="fix">
+<table width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0"> 
+<tbody>
+<tr>
+ <td style="color:#fbf6a5;  background-color:#bbac95; height:32px; text-align:center; font-family: Helvetica, Arial, sans-serif; padding-top:2%; padding-bottom:1%;  letter-spacing:1px;  font-size:1.3em;" align="center">
+
+<a href=“#” style="color:#fbf6a5;  text-align:center; font-family: Helvetica, Arial, sans-serif; padding-top:2%; padding-bottom:1%; letter-spacing:1px; text-decoration:none; ">
+
+<span class="yellow_link">THIS IS THE LINK</span>
+
+</a>
+</td>
+</tr> 
+</tbody>
+</table>
+</body>
+</html> 
+
